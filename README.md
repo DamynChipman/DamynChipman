@@ -29,4 +29,4 @@
 
 Feel free to reach out: DamynChipman@u.boisestate.edu
 
-Check out my CV [here!](https://github.com/camperD/camperD/my_CV.pdf)
+Check out my CV [here!](https://github.com/camperD/camperD/blob/main/my_CV.pdf)
