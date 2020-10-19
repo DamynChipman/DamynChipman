@@ -23,6 +23,7 @@
 
 - 🆕  Developing a Fast, Scalable, and Direct Elliptic PDE Solver
     - 🔜 Prototype coming soon!
+- 🧒 Sharing my office space with a toddler
 - 📖  _Foundation_ by Isaac Asimov
 
 ## 📲 Contact me!
