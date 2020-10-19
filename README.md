@@ -24,3 +24,9 @@
 - 🆕  Developing a Fast, Scalable, and Direct Elliptic PDE Solver
     - 🔜 Prototype coming soon!
 - 📖  _Foundation_ by Isaac Asimov
+
+## 📲 Contact me!
+
+Feel free to reach out: DamynChipman@u.boisestate.edu
+
+Check out my CV [here!](https://github.com/camperD/camperD/my_CV.pdf)
