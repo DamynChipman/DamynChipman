@@ -25,7 +25,7 @@
     - 🔜 Prototype coming soon!
 - 🎓 Blasting through graduate courses
 - 🧒 Sharing my office space with a toddler
-- 📖  _Foundation_ by Isaac Asimov
+- 📖  _To Sleep in a Sea of Starts_ by Christopher Paolini
 
 ## 📲 Contact me!
 
