@@ -1,7 +1,5 @@
 # Hi, I'm Damyn 👋
 
-### aka camperD 🏔 A nickname for my love of the mountains
-
 ## ❗️ Here's an overview
 
 ![](https://img.shields.io/badge/Code-Python-blue)
