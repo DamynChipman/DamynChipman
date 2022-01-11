@@ -19,9 +19,10 @@
 
 ## ⏱ Here's what I'm working on
 
-- 🆕  Developing a Fast, Scalable, and Direct Elliptic PDE Solver
-    - 🔜 Prototype coming soon!
-- 🎓 Blasting through graduate courses
+- 🆕 Developing a Fast, Scalable, and Direct Elliptic PDE Solver
+- 🌲 Integrating the HPS Method into [`ForestClaw`](http://www.forestclaw.org/ForestClaw/index.html)
+- 🎓 Working on my PhD dissertation (expected graduation: December 2023)
+- 🧑‍🏫 Teaching introductory computation at Boise State University
 - 🧒 Sharing my office space with a toddler
 - 📖 _Dune_ by Frank Herbert
 
