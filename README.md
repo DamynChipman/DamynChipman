@@ -11,8 +11,8 @@
 ![](https://img.shields.io/badge/Tools-CMake-blue)
 ![](https://img.shields.io/badge/Tools-GTest-blue)
 
-- 👨‍💻  Ph.D. Student at Boise State University
-- 🖥  Computational Scientist
+- 👨‍💻  Ph.D. Candidate at Boise State University
+- 🖥  Scientific Software Developer
 - 👨‍👩‍👧‍👦  Father and Husband
 - 🧗‍♂️  Rock and Ice Climber
 - 📚  Sci-Fi Book Lover
@@ -22,9 +22,8 @@
 - 🆕 Developing a Fast, Scalable, and Direct Elliptic PDE Solver
 - 🌲 Integrating the HPS Method into [`ForestClaw`](http://www.forestclaw.org/ForestClaw/index.html)
 - 🎓 Working on my PhD dissertation (expected graduation: December 2023)
-- 🧑‍🏫 Teaching introductory computation at Boise State University
 - 🧒 Sharing my office space with a toddler
-- 📖 _Dune_ by Frank Herbert
+- 📖 _The Mistborn Trilogy_ by Brandon Sanderson
 
 ## 📲 Contact me!
 
