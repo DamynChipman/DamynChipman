@@ -23,7 +23,7 @@
 - 🌲 Integrating the HPS Method into [`ForestClaw`](http://www.forestclaw.org/ForestClaw/index.html)
 - 🎓 Working on my PhD dissertation (expected graduation: December 2023)
 - 🧒 Sharing my office space with a toddler
-- 📖 _The Mistborn Trilogy_ by Brandon Sanderson
+- 📖 _The Stormlight Archives_ by Brandon Sanderson
 
 ## 📲 Contact me!
 
