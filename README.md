@@ -20,7 +20,7 @@
 ## ⏱ Here's what I'm working on
 
 - 🆕 Lead developer of the [`EllipticForest`](https://github.com/DamynChipman/EllipticForest) repository
-- 🌲 Integrating the HPS Method into [`ForestClaw`]([http://www.forestclaw.org/ForestClaw/index.html](https://github.com/ForestClaw/forestclaw))
+- 🌲 Integrating the HPS Method into [`ForestClaw`](https://github.com/ForestClaw/forestclaw)
 - 🎓 Working on my PhD dissertation (expected graduation: May 2024)
 - 🧒 Sharing my office space with toddlers
 - 📖 _The Stormlight Archives_ by Brandon Sanderson
