@@ -19,10 +19,10 @@
 
 ## ⏱ Here's what I'm working on
 
-- 🆕 Developing a Fast, Scalable, and Direct Elliptic PDE Solver
-- 🌲 Integrating the HPS Method into [`ForestClaw`](http://www.forestclaw.org/ForestClaw/index.html)
-- 🎓 Working on my PhD dissertation (expected graduation: December 2023)
-- 🧒 Sharing my office space with a toddler
+- 🆕 Lead developer of the [`EllipticForest`](https://github.com/DamynChipman/EllipticForest) repository
+- 🌲 Integrating the HPS Method into [`ForestClaw`](https://github.com/ForestClaw/forestclaw)
+- 🎓 Working on my PhD dissertation (expected graduation: May 2024)
+- 🧒 Sharing my office space with toddlers
 - 📖 _The Stormlight Archives_ by Brandon Sanderson
 
 ## 📲 Contact me!
