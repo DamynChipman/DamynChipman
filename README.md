@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Tools-CMake-blue)
 ![](https://img.shields.io/badge/Tools-GTest-blue)
 
-- 👨‍💻  Ph.D. Candidate at Boise State University
+- 💥  Computational Physicist
 - 🖥  Scientific Software Developer
 - 👨‍👩‍👧‍👦  Father and Husband
 - 🧗‍♂️  Rock and Ice Climber
@@ -19,14 +19,12 @@
 
 ## ⏱ Here's what I'm working on
 
+- 🏢 Postdoctoral Research Associate at Los Alamos National Laboratory
 - 🆕 Lead developer of the [`EllipticForest`](https://github.com/DamynChipman/EllipticForest) repository
-- 🌲 Integrating the HPS Method into [`ForestClaw`](https://github.com/ForestClaw/forestclaw)
-- 🎓 Working on my PhD dissertation (expected graduation: August 2024)
-- 🧒 Sharing my office space with toddlers
 - 📖 _The Stormlight Archives_ by Brandon Sanderson
 
 ## 📲 Contact me!
 
-Feel free to reach out: DamynChipman@u.boisestate.edu
+Feel free to reach out: damyn.chipman.work@icloud.com
 
-Check out my CV [here!](https://github.com/camperD/camperD/blob/main/my_CV.pdf)
+Check out my CV [here!](https://github.com/DamynChipman/DamynChipman/blob/main/my_CV.pdf)
